@@ -1,0 +1,6 @@
+{
+  "python.pythonPath": "${workspaceFolder}/bin/python3",
+  "python.venvPath": "./",
+  "python.linting.enabled": true,
+  "python.venvFolders": ["."]
+}
